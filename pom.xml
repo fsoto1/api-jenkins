@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cl.fsoto</groupId>
-	<artifactId>camel</artifactId>
+	<artifactId>api-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api-jenkins</name>
 	<description>API de test</description>
